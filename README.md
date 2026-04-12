@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="116" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d3cXllaDRjcGlsb3MxeXI4a3dyajZrN2x0MjIwMWF4eTFyM3hpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif"  />
+<img align="right" height="121" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d3cXllaDRjcGlsb3MxeXI4a3dyajZrN2x0MjIwMWF4eTFyM3hpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif"  />
 
 ###
 
@@ -43,6 +43,20 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnhNguyen-Olivia/AnhNguyen-Olivia/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnhNguyen-Olivia/AnhNguyen-Olivia/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnhNguyen-Olivia/AnhNguyen-Olivia/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnhNguyen-Olivia&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
