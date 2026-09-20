@@ -73,11 +73,3 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnhNguyen-Olivia/AnhNguyen-Olivia/output/bomberman-contribution-graph.svg">
     <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/AnhNguyen-Olivia/AnhNguyen-Olivia/output/bomberman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnhNguyen-Olivia&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
