@@ -1,4 +1,4 @@
-<h2 align="left">Howdy :D! My name is Thuy Anh and I'm a 3rd year CompSci student. Call me Anh or Olivia  ฅ(ᵔ꒳ ᵔマ.ᐟ</h2>
+<h2 align="left">Howdy :D! My name is Thuy Anh and I'm a final year CompSci student. Call me Anh or Olivia  ฅ(ᵔ꒳ ᵔマ.ᐟ</h2>
 
 ###
 
